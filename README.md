@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GauravShukla89.
+- 👀 I’m interested in contributing my skills and knowledge in the best way I can.
+- 🌱 I’m currently learning various technologies such as AWS,Cloud Computing and other technologies that can enhance my skills in the area of software development. 
+- 💞️ I’m looking to collaborate on different projects to contribute in the open source and to get some working experience.
+- 📫 You can reach to me through my Gmail ID which is gauravshukla8992@gmail.com
